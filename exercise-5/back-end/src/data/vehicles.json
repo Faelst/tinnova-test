@@ -1,0 +1,958 @@
+[
+  {
+    "id": "f45dde77-9d58-4ae2-8d7a-1407bfa32df9",
+    "veiculo": "FIAT 500 1.4 CULT 8V FLEX 2P AUTOMATIZADO",
+    "marca": "FIAT",
+    "ano": 2015,
+    "descricao": "SAVANA MULTIMARCAS - ITUIUTABA-MG\n\nFIAT \n500 AUT T.FLEX FLEX \n2014/2015 \nCOMPLETO\nAR CONDICIONADO\nDIREÇÃO HIDRÁULICA\nVIDROS ELÉTRICOS\nTRAVAS ELÉTRICAS\nALARME\nAIR BAG\nABS\nRODAS EM LIGA LEVE\nCENTRAL MULTIMÍDIA\nDIREÇÃO ELÉTRICA\nKM 30558\n\nR$ 40.000,00 \n\nEXCELÊNCIA E TRADIÇÃO EM VENDA DE VEÍCULOS!\nAS MELHORES CONDIÇÕES DE FINANCIAMENTOS!\nSAVANA MULTIMARCAS O SEU NOVO CARRO ESTA AQUI!\nRUA 24, 741 CENTRO ITUIUTABA MG\n\nVISITE E CURTA NOSSAS REDES SOCIAIS!\nHTTPS://LINKTR.EE/SAVANA.ITBA\n\nWHATSAPP:\nINFORMA",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "75745003-f5bc-46ca-85dc-bd1e787fdbc6",
+    "veiculo": "VOLKSWAGEN FOX 1.0 MI TREND 8V FLEX 4P MANUAL",
+    "marca": "VOLKSWAGEN",
+    "ano": 2013,
+    "descricao": "VEICULO MUITO NOVO SEM DETALHES,MODELO TREND 1.0 COMPLETO.\r\nFIRE MOTORS SUA LOJA DE VEICULOS OKM E SEMI NOVOS DE TODAS AS MARCAS E MODELOS,NACIONAIS E IMPORTADOS.TODOS O NOSSOS VEICULO SEMI NOVOS COM GARANTIA E PROCEDENCIA,LAUDO PERICIAL APROVADOS POR EMPRESA CREDENCIADA\r\nANTES DE TROCAR OU COMPRAR SEU VEICULO NÃO DEIXE DE NOS CONSULTAR.NOS RESERVAMOS AO DIREITO DE CORRIGIR ERROS DO ANUNCIO. Outros Opcionais: Porta-copos.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "f97e31ef-3509-455b-abfd-55becbb169d4",
+    "veiculo": "TOYOTA HILUX SW4 2.7 SR 4X2 16V FLEX 4P AUTOMÁTICO",
+    "marca": "TOYOTA",
+    "ano": 2014,
+    "descricao": "Veículo com total procedência, com laudo cautelar 100% aprovado. Todos nossos carros são revisados, com garantia de 03 meses de motor e câmbio (consulte condições). Quer saber mais detalhes do veículo? Entre em contato com um dos nossos consultores de seminovos. Nós da Expoente Toyota temos mais de 20 anos de tradição e excelência no atendimento.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "0f0c76a6-bbde-40e5-b3b8-cf4d3e243b58",
+    "veiculo": "BMW 650i 4.4 CABRIO V8 32V TURBO GASOLINA 2P AUTOMÁTICO",
+    "marca": "BMW",
+    "ano": 2012,
+    "descricao": "Motor 4.4 V8 Bi turbo de 413 cv, Câmbio automático de 8 velocidades, Modos de condução (Comfort, Comfort +, Sport e Sport +), Bancos em couro com 20 tipos de regulagem, aquecimento e ventilação, Ar-condicionado digital de 2 zonas, Multimídia iDrive de 10\" c/GPS, Bluetooth e USB, Som Bang&Olufsen, Sensor de estacionamento 360°, Câmera de ré, Head-up Display, Rodas aro 20\" c/pinças série \"M\", Aviso de mudança de faixa e Night Vision (Detecção de Pedestre por Infravermelho c/alcance de até 300 m). Outros Opcionais: Controle de estabilidade, Distribuição eletrônica de frenagem.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "8463fa78-7b7b-4e3c-a4a8-e367a221c881",
+    "veiculo": "CITROËN C3 1.6 TENDANCE 16V FLEX 4P AUTOMÁTICO",
+    "marca": "CITROËN",
+    "ano": 2015,
+    "descricao": "CONCESSIONARIA HONDA GABIVEL COM VEICULOS SEMINOVOS MULTIMARCAS. VALOR A VISTA, PARA TROCA CONSULTE UM VENDEDOR. Outros Opcionais: Farol de neblina, Direção Elétrica, Banco bi-partido, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "8df4285c-7ea7-4b60-804a-215ea9b5f02e",
+    "veiculo": "VOLKSWAGEN FOX 1.6 MSI COMFORTLINE 8V FLEX 4P MANUAL",
+    "marca": "VOLKSWAGEN",
+    "ano": 2015,
+    "descricao": ".Para maiores informações e orçamentos, entre em contato com um dos números abaixo: (71) 9 9277-1877 (Whats app) 3389-4267   Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Distribuição eletrônica de frenagem, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "7e704900-e584-45b9-b0bb-9cdf2bc8b407",
+    "veiculo": "MITSUBISHI L200 TRITON 3.5 HPE 4X4 CD V6 24V FLEX 4P AUTOMÁTICO",
+    "marca": "MITSUBISHI",
+    "ano": 2013,
+    "descricao": "Farol de neblina, ABD,BT,C,CA,EE,PA,TQR,VV,ABL,VT",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "7ce0c38b-4e82-4779-961d-9c3376429bfc",
+    "veiculo": "MERCEDES-BENZ SPRINTER 2.2 311 CDI FURGÃO STREET 9 16V BI-TURBO DIESEL MANUAL",
+    "marca": "MERCEDES-BENZ",
+    "ano": 2014,
+    "descricao": "MERCEDES-BENZ\r\n \r\nSPRINTER\r\n\r\n2.2 311 CDI FURGÃO STREET 9 16V BI-TURBO DIESEL MANUAL\r\n Outros Opcionais: Porta-copos, Distribuição eletrônica de frenagem, MP3 Player.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "a3035065-fd92-4b06-86c2-f08175e9e699",
+    "veiculo": "MITSUBISHI ASX 2.0 4X2 16V GASOLINA 4P AUTOMÁTICO",
+    "marca": "MITSUBISHI",
+    "ano": 2015,
+    "descricao": "Farol de neblina, ABD,BT,C,CA,EE,VV,ABL,VT",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "2cbb892e-c145-4df7-aafb-99f6d594dfa5",
+    "veiculo": "NISSAN VERSA 1.6 16V FLEX SV 4P MANUAL",
+    "marca": "NISSAN",
+    "ano": 2014,
+    "descricao": "VEÍCULO REVISADO E COM GARANTIA!\r\nSEM HISTÓRICO DE LEILÃO OU SINISTRO!\r\nVALOR DO ANÚNCIO NO PREÇO A VISTA!\r\nPARA TROCAS CONSULTAR VALORES! Outros Opcionais: Farol de neblina, Direção Elétrica, Banco bi-partido, Distribuição eletrônica de frenagem, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "cdbc35ba-f97a-4546-81c4-7e4d9af6dcc4",
+    "veiculo": "KIA SORENTO 2.4 16V GASOLINA EX AUTOMÁTICO",
+    "marca": "KIA",
+    "ano": 2011,
+    "descricao": "LIGUE!!! UM DE NOSSOS CONSULTORES DE VENDAS TERÁ IMENSO PRAZER EM LHE PASSAR MAIORES INFORMAÇÕES SOBRE ESTE VEÍCULO E FORMAS DE PAGAMENTO!!! CONHEÇA NOSSO SITE, ACESSE WWW.MAZOLA.COM.BR E VISUALIZE NOSSO ESTOQUE COMPLETO!",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "8e8f222d-dbd5-46fc-9017-18d4b26f4d52",
+    "veiculo": "CHEVROLET S10 2.5 LTZ 4X4 CD 16V FLEX 4P MANUAL",
+    "marca": "CHEVROLET",
+    "ano": 2015,
+    "descricao": "RL,FM,ABD",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "f23e0c36-2017-4173-bad2-56dbf715ff30",
+    "veiculo": "VOLKSWAGEN GOLF 1.4 TSI HIGHLINE 16V GASOLINA 4P AUTOMÁTICO",
+    "marca": "VOLKSWAGEN",
+    "ano": 2014,
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "4480643f-94bf-4beb-b691-7aae5cda14cb",
+    "veiculo": "TOYOTA COROLLA 2.0 XEI 16V FLEX 4P AUTOMÁTICO",
+    "marca": "TOYOTA",
+    "ano": 2014,
+    "descricao": "Nos reservamos no direito de erros de digitação.\n\nEntre em contato para mais informações ou dúvidas:\n\nP.A AUTOMÓVEIS\nCONSULTOR PABLO\n(DDD Sete Lagoas)96O6...86Z7 Ligação e WhatsApp Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "898106df-0557-4390-af2a-477d11932e27",
+    "veiculo": "MERCEDES-BENZ C 200 1.8 CGI AVANTGARDE 16V GASOLINA 4P AUTOMÁTICO",
+    "marca": "MERCEDES-BENZ",
+    "ano": 2012,
+    "descricao": "IMPECAVEL, MARAVILHOSA, SUPER REVISADA, TETO SOLAR, NOTA 10.\n\nVEÍCULOS COM PROCEDENCIA, REVISADOS, PERICIADOS CAUTELARMENTE, \" NAO \" ACEITAMOS LAUDO CAUTELAR COM RESTRICAO OU OBSERVACAO. SOMENTE COMPRAMOS VEICULOS CONSTATADA ORIGEM  ...\n\n\" NAO \" TRABALHAMOS DE FORMA NENHUMA COM VEICULOS DE LEILAO , NEM TAMPOUCO DE SEGURADORAS ...\n\nTODOS OS PAGAMENTOS DEVEM SER FEITOS NA CONTA DE NOSSA EMPRESA ( NOSSO CNPJ ) ...\n\n  RESERVAMO-NOS AO DIREITO DE ERROS DE DIGITAÇAO E ALTERACAO DE PREÇO E OPCIONAIS NO DECORRER DO DIA .",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "33a64f61-4c70-4890-8213-629cfa8a7702",
+    "veiculo": "PORSCHE CAYENNE 4.8 4X4 V8 32V TURBO GASOLINA 4P TIPTRONIC",
+    "marca": "PORSCHE",
+    "ano": 2015,
+    "descricao": "Veículo blindado AXIA com vidros UNIQUE, baixíssimo km, sem detalhes, sem delaminados, cautelar aprovado!  Outros Opcionais: Direção Elétrica, Comando de áudio no volante, Assistente de Partida em Rampa, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "a739a171-aa66-4511-a2f7-cc210dc55b77",
+    "veiculo": "PORSCHE PANAMERA 4.8 4S V8 GASOLINA 4P AUTOMÁTICO",
+    "marca": "PORSCHE",
+    "ano": 2011,
+    "descricao": "PORSCHE COM INTERIOR AZUL, TETO SOLAR, IMPECÁVEL, BANCO DE COURO, EXCELENTE PROCEDENCIA.\n\nVEÍCULOS COM PROCEDENCIA, REVISADOS, PERICIADOS CAUTELARMENTE, \" NAO \" ACEITAMOS LAUDO CAUTELAR COM RESTRICAO OU OBSERVACAO. SOMENTE COMPRAMOS VEICULOS CONSTATADA ORIGEM  ...\n\n\" NAO \" TRABALHAMOS DE FORMA NENHUMA COM VEICULOS DE LEILAO , NEM TAMPOUCO DE SEGURADORAS ...\n\nTODOS OS PAGAMENTOS DEVEM SER FEITOS NA CONTA DE NOSSA EMPRESA ( NOSSO CNPJ ) ...\n\n  RESERVAMO-NOS AO DIREITO DE ERROS DE DIGITAÇAO E ALTERACAO DE PREÇO E OPCIONAIS NO DECORRER DO DIA .",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "71fe038b-1bae-4ca8-9ce7-374ff8d1c2d7",
+    "veiculo": "VOLKSWAGEN JETTA 2.0 TSI HIGHLINE 200CV GASOLINA 4P TIPTRONIC",
+    "marca": "VOLKSWAGEN",
+    "ano": 2013,
+    "descricao": "JETTA HIGHLINE TSI  2.0\r\nAR CONDICIONADO\r\nDIRECAO ELETRICA\r\nVIDRO ELETRICA\r\nTRAVA ELETRICA\r\nALARME\r\nESTAMOS LOCALIZADOS NA  RUA:PADRE MANUEL BERNARDES, 310, VL CARRÃO/SÃO PAULO-SP\r\nFINANCIAMENTO EM ATÉ 60 X COM OU SEM ENTRADA, FAÇA UMA SIMULAÇÃO , APROVAMOS SEU CRÉDITO ON LINE.\r\nRESERVAMOS O DIREITO DE POSSÍVEIS ERROS DE DIGITAÇÃO\r\nem contato para mais informações! em contato para mais informações!e em contato para mais informações! Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Assistente de Partida em Rampa, Controle de estabilidade, Kit Multimídia, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "f6ca8d4e-aedc-4ffc-824b-e6200c3214b8",
+    "veiculo": "AUDI A8 4.2 QUATTRO LIMOUSINE V8 40V GASOLINA 4P TIPTRONIC",
+    "marca": "AUDI",
+    "ano": 2011,
+    "descricao": "Essa unidade está na cor Prata Gelo com o interior em Preto e acabamento interno em Assam Gray Wood. Seus principais opcionais são rodas 19\", bancos dianteiros e traseiros elétricos climatizados com lombar, memória e massagem, teto solar, volante com aquecimento, suspensão pneumática adaptativa, faróis full led, multimídia \"MMI Plus\" de 8\" com gps, bluetooth e hd interno de 20gb, night vision, piloto automático adaptativo, som Bose de 630w, keyless, aviso de ponto cego, faixa e colisão, teto for Outros Opcionais: Farol de neblina, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": "2021-10-15T22:28:15.031Z"
+  },
+  {
+    "id": "0b39e203-c9e1-42cc-bfdc-78a5e77056dc",
+    "veiculo": "CHEVROLET CRUZE 1.8 LT 16V FLEX 4P AUTOMÁTICO",
+    "marca": "CHEVROLET",
+    "ano": 2014,
+    "descricao": "Todos os veículos anunciados aqui, tem laudo cautelar, e foram submetidos a rigorosa avaliação de procedência, estado e qualidade venha nos visitar e conferir, estamos na cidade de CAMPINAS, WhatsApp - 19 953212806 /  ou 19-3212-1259, Trio elétrico, Vidros verdes, Abertura interna da tampa de combustível, Abertura interna do porta-malas, Air bag do motorista, Air bag do passageiro, Alarme anti-furto, Coluna de direção com regulagem de altura, Faróis de milha, Maçanetas na cor do veículo, Para-Choque pintado na cor do veículo, Piloto automático, Pintura metálica, Porta-copos, Relógio digital, Retrovisores na cor do veículo, Temporizador do limpador do para-brisa, Alto falante, Alto falantes dianteiros, Alto falantes traseiros, Chave cópia, Faróis de neblina, Antena no teto, Apoio de braço lateral, Apoios de cabeça traseiros, Assoalho em carpete, Cintos de seguraça com regulagem de altura, Descanso de braço central, Luz de cortesia no teto, Pára-sol com espelho para o motorista, Pára-sol com espelho para o passageiro, Porta-copos no console central, Protetor para motor e cárter, Rádio e CD Player",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "5cfa7a9e-9d23-4dbe-a3ec-8fe5c5b388f4",
+    "veiculo": "MERCEDES-BENZ SPRINTER 2.2 415 CDI VAN 16 LUGARES TETO ALTO 16V BI-TURBO DIESEL MANUAL",
+    "marca": "MERCEDES-BENZ",
+    "ano": 2013,
+    "descricao": "Esse veículo é uma SPRINTER 311 CDI 2.2 20 LUGARES = 19+1.\r\nCompleta - muito nova\r\n20 bancos executivos reclináveis, Porta Pacote, Tapetes , cortinas, insulfilme, Estribo, Redinhas atrás dos bancos, Duto de ár condicionado revestido com o mesmo tecido dos bancos, Tacógrafo digital, Capacho sobre tapete, Engate, Bagageiro grande.\r\n\r\nNossos consultores:\r\n\r\n17 x 98173 x 2252  Marcelo\r\n17 x 98173 x 2251   Faustino\r\n17 x 3231 x 6162     Negrini\r\nwww.negriniutilitarios.com.br\r\n\r\n21 anos de Qualidade P Outros Opcionais: Porta-copos, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "b9687e6b-7e5a-4009-9a05-996da6915f7e",
+    "veiculo": "FORD EDGE 3.5 V6 GASOLINA LIMITED AWD AUTOMÁTICO",
+    "marca": "FORD",
+    "ano": 2014,
+    "descricao": "Carro TOP de linha, versão com motor V6 e tração AWD, configuração mais desejada e super equipada!\n\nSW4 CAMIONETAS ITAJAÍ - CERTEZA DE UM BOM NEGÓCIO Outros Opcionais: Farol de neblina, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "77462c2e-618e-44d5-be84-8d271bf2bfc0",
+    "veiculo": "CHEVROLET SPIN 1.8 LTZ 8V FLEX 4P AUTOMÁTICO",
+    "marca": "CHEVROLET",
+    "ano": 2014,
+    "descricao": " Outros Opcionais: Farol de neblina, Banco bi-partido, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "4c47580d-75c5-45d2-99bf-874d00a98444",
+    "veiculo": "CHEVROLET PRISMA 1.4 MPFI LTZ 8V FLEX 4P MANUAL",
+    "marca": "CHEVROLET",
+    "ano": 2014,
+    "descricao": "Farol de neblina, Porta-copos, Bluetooth, Câmera de Ré, Comando de Som no Volante, Entrada USB, Banco com ajuste elétrico, Para choques Pintados Cor do Veículo, MyLink, Chave Reserva, Volante Multifuncional, Seminovo é na Unidas! São diversas opções a pronta entrega com condições de pagamento facilitadas. Fale agora com a nossa equipe pelo WhatsApp (47)3531-3610 e negocie conosco! Aceitamos seu usado na troca!",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "6692e8d2-c09c-4eea-b6ee-528ca7851353",
+    "veiculo": "AUDI R8 4.2 FSI QUATTRO V8 32V GASOLINA 2P R-TRONIC",
+    "marca": "AUDI",
+    "ano": 2008,
+    "descricao": "Veículo em excelente estado de conservação. Motorização V8 aspirada de 426 cv. Equipado também com escapamento Akrapovic (50k), alterando sua potência/desempenho e também dando muito mais esportividade para o som do escapamento.\r\n\r\nVeículo com total procedência e garantia, totalmente revisado. Um exímio super-esportivo. Outros Opcionais: Porta-copos, Farol de neblina, Assistente de Partida em Rampa, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "40e8c005-7f40-41e3-943a-316240b9feea",
+    "veiculo": "CHEVROLET S10 2.4 ADVANTAGE 4X2 CD 8V FLEX 4P MANUAL",
+    "marca": "CHEVROLET",
+    "ano": 2008,
+    "descricao": "Veiculo com pneus novos, e todas os acessorios da Executive!!!! Outros Opcionais: MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "e6dfe4d9-86ec-4a33-8d2c-ef46068d55b5",
+    "veiculo": "VOLKSWAGEN GOL 1.6 MI POWER 8V FLEX 4P MANUAL G.IV",
+    "marca": "VOLKSWAGEN",
+    "ano": 2008,
+    "descricao": "Me Chamo Lucas Bessa, sou consultor de vendas.\r\nCarros com garantia e revisados.\r\nMe chama no WhatsApp ( 8598... ver número ) ou chat Olx:\r\nCaracterística:\r\n\r\n* Crédito aprovado na hora\r\n* Financiamos com zero de entrada\r\n* Recebemos seu seminovo na troca\r\n* Fazemos a melhor avaliação do mercado\r\n* Parcelamos sua entrada em até 12x no cartão Outros Opcionais: Farol de neblina, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "a76299fc-d38d-42ba-bbcd-e8c1d0a62b8d",
+    "veiculo": "FIAT DOBLÒ 1.8 MPI ADVENTURE LOCKER 8V FLEX 4P MANUAL",
+    "marca": "FIAT",
+    "ano": 2009,
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": "2021-10-15T22:28:15.031Z"
+  },
+  {
+    "id": "4b952b51-2ef7-49b0-b182-c2fac05082de",
+    "veiculo": "TOYOTA COROLLA 1.8 SE-G 16V FLEX 4P AUTOMÁTICO",
+    "marca": "TOYOTA",
+    "ano": 2009,
+    "descricao": "() CAUTELAR COM APONTAMENTO ()SUGESTAO DE FINANCIAMENTO  ENTRADA + 48x DE 1.299,00Carro em excelente estado e periciado  Venha nos visitar para conferir mais desse e de varios outros carros Avenida Ipanema 901, Sorocaba - SPVem pra Rio Branco voce tambem   Sujeito aprovacao da financeira PRECO DE VENDA A VISTAPARA TROCA CONSULTE-NOSRESERVAMOS O DIREITO DE CORRIGIR EVENTUAIS ERROS DE DIGITACAO E FOTOS.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "9dc3915e-124e-4f14-98a5-caff148964a6",
+    "veiculo": "VOLKSWAGEN SAVEIRO 1.6 MI CITY CS 8V FLEX 2P MANUAL G.IV",
+    "marca": "VOLKSWAGEN",
+    "ano": 2007,
+    "descricao": "Veículo em excelente estado !",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "3c39035e-b977-4ecc-905d-b5141c8d0a76",
+    "veiculo": "RENAULT SYMBOL 1.6 EXPRESSION 8V FLEX 4P MANUAL",
+    "marca": "RENAULT",
+    "ano": 2010,
+    "descricao": "A procura de um Renault SYMBOL Expression Hi-Flex 1.6 8V 4p - Preto - 2010 seminovo? Aqui tem. Veículo periciado. 3 Meses de garantia. Ano: 2010/2010 KM: 145000 km. Gostou deste carro? Temos uma equipe de atendimento on-line pronta para te atender, ou se preferir, faça uma visita. Te esperamos!",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "b795cb83-4715-48ee-979c-c10643352dc4",
+    "veiculo": "BMW X6 3.0 35I 4X4 COUPÉ 6 CILINDROS 24V GASOLINA 4P AUTOMÁTICO",
+    "marca": "BMW",
+    "ano": 2010,
+    "descricao": "Veículo IMPECÁVEL!!! Rodas da X6 2020, 4 pneus novos,  ponteira do escapamento cromada, teto solar, shift no volante.   Outros Opcionais: Porta-copos, Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": "2021-10-15T22:28:15.031Z"
+  },
+  {
+    "id": "a27b2bc3-2109-437f-9569-65b458655046",
+    "veiculo": "TOYOTA FIELDER 1.8 16V GASOLINA 4P AUTOMÁTICO",
+    "marca": "TOYOTA",
+    "ano": 2006,
+    "descricao": "VEÍCULO EM EXCELENTE ESTADO DE CONSERVAÇÃO !!!!!!!!!!!!!!!! FINANCIAMOS COM OU SEM ENTRADA MEDIANTE CONSULTA !!!!!!!!!!!!!!!! PARCELAMOS A ENTRADA EM ATÉ 18 VEZES NO CARTÃO DE CRÉDITO !!! ",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": "2021-10-15T22:28:15.031Z"
+  },
+  {
+    "id": "240635b6-87b4-4085-b860-1b60228cf843",
+    "veiculo": "FIAT SIENA 1.0 MPI FIRE ELX 16V GASOLINA 4P MANUAL",
+    "marca": "FIAT",
+    "ano": 2006,
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": "2021-10-15T22:28:15.031Z"
+  },
+  {
+    "id": "50f2004e-fd24-4170-9f02-634d616fca70",
+    "veiculo": "FIAT UNO 1.0 MPI MILLE FIRE 8V FLEX 2P MANUAL",
+    "marca": "FIAT",
+    "ano": 2007,
+    "descricao": "conservado",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "d7d1f62f-160b-4338-b64a-0bcceb0d6a8c",
+    "veiculo": "CHEVROLET MONTANA 1.4 MPFI CONQUEST CS 8V FLEX 2P MANUAL",
+    "marca": "CHEVROLET",
+    "ano": 2009,
+    "descricao": " Legalizado baixo\r\n Financia 100%\r\n Veiculo Sem Sinistro ou Leilao\r\n KM Original\r\n Financiamento bancario Todos os bancos\r\n Financiamento para: Assalariados e Autonomos; Aposentados ou Pensionistas; Pessoas com e sem CNH\r\n\r\nAUTOMADRID  Loja localizada na Rua Benjamin Constant, 2815  Bairro Gloria  Joinville Publicado via autonitro Outros Opcionais: Porta-copos, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "a963d266-1c15-4a51-887f-3841fcd26f81",
+    "veiculo": "FORD ECOSPORT 1.6 XLT FREESTYLE 8V FLEX 4P MANUAL",
+    "marca": "FORD",
+    "ano": 2008,
+    "descricao": "As melhores opções estão na Aliança Multimarcas, venha conferir! \r\nVeículo em ótimas condições, mecânica e doc tudo ok. \r\nValor de venda na troca, consulte-nos. \r\nParcelamos sua entrada no cartão de crédito em até 18x\r\n**Com procedência vistoriado e com garantia. – Entre em contato!\r\nReservamos o direito de corrigir qualquer erro de digitação e/ou fotografia sem aviso prévio. Outros Opcionais: Banco bi-partido, MP3 Player.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "90e6d197-fd69-4b81-98c7-8b727607ebe3",
+    "veiculo": "FORD FIESTA 1.0 MPI CLASS HATCH 8V FLEX 4P MANUAL",
+    "marca": "FORD",
+    "ano": 2010,
+    "descricao": "O VALOR ANUNCIADO E UMA SUGESTAO DE FINANCIAMENTO ACRECIDO A UMA PEQUENA ENTRADA. O CREDITO ESTA SUJEITO A ANALISE BANCARIA E A CADA PERFIL DE CPF.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "2e015b64-8b1e-4e41-becb-fa867331c92d",
+    "veiculo": "VOLVO C30 2.0 GASOLINA 2P MANUAL",
+    "marca": "VOLVO",
+    "ano": 2010,
+    "descricao": "Ficou interessado? Entre em contato para mais informações! Outros Opcionais: Banco bi-partido, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem, Farol de neblina, MP3 Player, Pára-choques na cor do veículo, Porta-copos.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "ab8a8a3e-35df-49c7-9147-691d5c32e604",
+    "veiculo": "KIA SOUL 1.6 EX 16V GASOLINA 4P AUTOMÁTICO",
+    "marca": "KIA",
+    "ano": 2010,
+    "descricao": "RODCAR AUTOMÓVEIS empresa com 37 anos de tradição no mercado de Seminovos comercializando veículos revisados, periciados e aprovados com garantia de procedência. Garantimos uma ótima avaliação no seu seminovo na troca.\r\n* Obs. A RODCAR reserva-se ao direito de modificar, corrigir ou excluir este anúncio sem qualquer aviso prévio.\r\n* VALOR ANUNCIADO SOMENTE A VISTA, NO CASO DE TROCAS FAVOR CONSULTAR A EQUIPE DE VENDAS.\r\n Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "fc35e952-a72c-4e64-8683-11cebef96ad4",
+    "veiculo": "RENAULT CLIO 1.6 RL GASOLINA 4P MANUAL",
+    "marca": "RENAULT",
+    "ano": 1999,
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "f17c754e-8ea3-4a90-b5ff-acbf54b7b3e1",
+    "veiculo": "HYUNDAI TUCSON 2.7 MPFI GLS 24V 180CV 4WD GASOLINA 4P AUTOMÁTICO",
+    "marca": "HYUNDAI",
+    "ano": 2009,
+    "descricao": "Blindagem nível IIIA Inbra / Vidros que não delaminam / FINANCIAMOS E TRABALHAMOS COM CARTÃO DE CRÉDITO EM ATÉ 12x / LAUDO CAUTELAR APROVADO! / GARANTIA PG MOTORS / ACEITAMOS TROCAS DE MAIOR OU MENOR VALOR  / TRABALHAMOS COM HORÁRIO AGENDADO PARA VER VEÍCULOS. CONSULTE!  Outros Opcionais: Porta-copos, Farol de neblina, Comando de áudio no volante, Assistente de Partida em Rampa, Distribuição eletrônica de frenagem, Kit Multimídia, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "8a9488a2-1bbf-49ec-8193-4fc14e1fade9",
+    "veiculo": "CHEVROLET S10 2.4 ADVANTAGE 4X2 CD 8V FLEX 4P MANUAL",
+    "marca": "CHEVROLET",
+    "ano": 2010,
+    "descricao": "Ficou interessado? Entre em contato para mais informações! Outros Opcionais: Farol de neblina, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "3b720cc5-cf01-45b9-b6f8-d757b36daed5",
+    "veiculo": "VOLKSWAGEN POLO 1.6 MI 8V FLEX 4P MANUAL",
+    "marca": "VOLKSWAGEN",
+    "ano": 2006,
+    "descricao": "Polo muito conservado todo revisado 4 pneus novos multimídia câmera de ré aceito troca  Outros Opcionais: Porta-copos, Farol de neblina, Kit Multimídia.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "9558f203-b3ab-4044-af4b-9feac8ea6dbf",
+    "veiculo": "MERCEDES-BENZ E 500 5.0 AVANTGARDE V8 GASOLINA 4P AUTOMÁTICO",
+    "marca": "MERCEDES-BENZ",
+    "ano": 2007,
+    "descricao": "Carro impecável, nunca andou em terra!\nBlindado de Fábrica !",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "123a34cd-0e11-4049-aa6f-49850b00ad92",
+    "veiculo": "HONDA CIVIC 1.8 LXS 16V FLEX 4P MANUAL",
+    "marca": "HONDA",
+    "ano": 2008,
+    "descricao": "Fale conosco: Juliana (11) 91369-0594 (WhatsApp)/// Fixo : (11) 4230-2137/// -Facilitamos para motorista de aplicativos -Promissória com 50% de entrada, sem consulta SPC/SERASA.  ",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "45e35ddc-1b20-4596-b3db-5a3420925898",
+    "veiculo": "BMW 750i 4.8 SEDAN V8 32V GASOLINA 4P AUTOMÁTICO",
+    "marca": "BMW",
+    "ano": 2006,
+    "descricao": "Blindado",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": "2021-10-15T22:28:15.031Z"
+  },
+  {
+    "id": "07e80a99-366c-48e6-9eda-f07d9c391a25",
+    "veiculo": "MERCEDES-BENZ S 500 5.5 L SEDAN V8 GASOLINA 4P AUTOMÁTICO",
+    "marca": "MERCEDES-BENZ",
+    "ano": 2001,
+    "descricao": "Veículo muito bem conservado, totalmente original, BLINDADO DE FÁBRICA, interior impecável, praticamente de um só dono, funcionamento perfeito, inclusive a suspensão air lift.  Para pessoas que apreciam a qualidade de uma S500 blindada de fábrica.  ",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "02fe6a7d-9593-415a-9f71-292c20173fcb",
+    "veiculo": "AUDI Q8 3.0 TFSI GASOLINA PERFORMANCE QUATTRO TIPTRONIC",
+    "marca": "AUDI",
+    "ano": 2020,
+    "descricao": "Essa unidade está na cor Preto Mito Metálico com o interior em Couro Marrom e Preto. Seus principais opcionais são rodas 22\", faróis full led, sensor de pressão dos pneus, teto solar panorâmico, bancos elétricos com lombar e memória, luz ambiente, suspensão magnética, ar condicionado de 4 zonas, keyless, porta malas elétrico, virtual cockpit, multimídia MMI Plus com gps, bluetooth, Apple CarPlay e Android Auto, sensor de estacionamento dianteiro e traseiro, câmera 360º, piloto automático adaptat Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "a4ef8621-7f34-4904-b9af-41978f9f342e",
+    "veiculo": "PORSCHE 911 3.8 24V H6 GASOLINA TURBO PDK",
+    "marca": "PORSCHE",
+    "ano": 2021,
+    "descricao": "Essa unidade esta na exclusiva cor Azul Gentian matálico com intetior em couro bicolcor preto e vermelho bourdeaux. Seus principais opcionais são, rodas 20\" na dianteira e 21\" na traseira 991 Turbo, bancos esportivos de 18 vias com memoria e aquecimento, costuras em vermelho contrastantes, escudo Porsche Gravado em alto relevo nos encostos de cabeça e apoio de braço no console central, direção assistida plus, ar condicionado dual zone com ionizador, teto solar elétrico em vidro, faróis matrix le Outros Opcionais: Direção Elétrica, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "11623fff-08f3-42bb-8e51-f137d8a4a992",
+    "veiculo": "MERCEDES-BENZ GLC 220d 2.0 TURBO DIESEL ENDURO 9G-TRONIC",
+    "marca": "MERCEDES-BENZ",
+    "ano": 2020,
+    "descricao": " Essa unidade está na cor Branco com o interior em Couro Preto e acabamento em madeira de carvalho escura. Seus principais opcionais são rodas 19\", sensor de estacionamento dianteiro e traseiro, câmera 360, park assist ativo, bancos elétricos com memória e lombar, teto solar panorâmico, piloto automático, sensor de pressão de pneus, painel de instrumentos de 12,3\" configurável, multimídia MBUX de 10\"com gps e bluetooth Apple CarPlay e Android Auto, iluminação colorida no interior, faróis full le Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "d88d3c66-67b0-4eb2-b6da-190af89b77c5",
+    "veiculo": "BMW X5 3.0 I6 TURBO HÍBRIDO XDRIVE45E M SPORT AUTOMÁTICO",
+    "marca": "BMW",
+    "ano": 2022,
+    "descricao": " Essa unidade está na cor Preto Carbono com o interior em Couro Vernasca em Cognac e Preto acabamentos aluminio tetragon. Seus principais opcionais são rodas 21?, comfort access, sensor de estacionamento 360º, câmera 360º, park assist plus, reverse assistance retorna o veículo em até 50m da mesma forma que entrou, teto solar panorâmico, teto forrado em alcântara, telas traseiras, cortinas traseiras, freios M Sport, luz em led configurável, bancos elétricos climatizados com memória, lombar e abas Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "18fadbe6-10d0-413d-b5a4-7c7b691b741a",
+    "veiculo": "CHEVROLET CAMARO 6.2 V8 GASOLINA SS AUTOMÁTICO",
+    "marca": "CHEVROLET",
+    "ano": 2020,
+    "descricao": " Essa unidade está na cor Branco com o interior em Couro Preto. Seus principais opcionais são rodas 20\", bancos elétricos climatizados do motorista com memória, logo SS nos encostos de banco, farol full led, multimídia \"My Link 3\" touch screen de 8\" com GPS, Apple CarPlay e Android Auto, sistema WI_FI 4g LTE, serviço ON Star e S.O.S, head-up display, aviso de ponto cego, alerta de movimentação traseira, sensor de aproximação repentina, oito airbags (frontais, laterais dianteiros, de cortina e de Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "568e9db7-a05d-499b-a142-24e31eb4381b",
+    "veiculo": "AUDI R8 5.2 V10 FSI GASOLINA COUPÉ QUATTRO S TRONIC",
+    "marca": "AUDI",
+    "ano": 2021,
+    "descricao": "Essa unidade na cor Azul Ascari metálico com o interior em Couro Napa Fina Preto em formato de diamante, acabamentos internos em fibra de carbono e costuras em azul. Seus principais opcionais são rodas 20\", ar condicionado dual zone, sensor de estacionamento dianteiro e traseiro, câmera de ré, freios de cerâmica, pinças vermelhas, bancos esportivos elétricos com lombar e aquecimento, luz ambiente, side blade em carbono Sigma, Spoilers dianteiro e traseiro em fibra de carbono, saia lateral em fib Outros Opcionais: Direção Elétrica, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "23e6e587-2bb0-410e-9ed9-9591fdb017b9",
+    "veiculo": "PORSCHE MACAN 2.9 GTS 24V V6 GASOLINA 4P AUTOMÁTICO",
+    "marca": "PORSCHE",
+    "ano": 2021,
+    "descricao": "Essa unidade está na cor Prata Dolomita com o interior em Couro cinza Agata. Seus principais opcionais são rodas 21? 911 Turbo, pinças em vermelho, teto solar panorâmico, sensor de estacionamento dianteiro e traseiro, câmera de ré, sport chrono, bancos esportivos Plus de 18 vias com aquecimento e memoria, grafia GTS nos encostos de cabeça, direção assistida plus, piloto automático, cronômetro Vermelho Granada, ar condicionado de 3 zonas, suspensão ativa (PASM) rebaixada em 10mm, escape esportivo Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "55db3849-b03f-4804-bc24-3110e475fe3e",
+    "veiculo": "AUDI Q5 2.0 45 TFSI GASOLINA PRESTIGE QUATTRO S TRONIC",
+    "marca": "AUDI",
+    "ano": 2021,
+    "descricao": "Essa unidade está na cor Cinza com o interior em Couro Cinza e acabamento interno em Alumínio. Seus principais opcionais são rodas 19\", bancos elétricos com lombar, ar condicionado de 3 zonas, virtual cockpit, piloto automático com controlador de velocidade, controle de tração e estabilidade, alerta de colisão frontal e mudança de faixa, monitor de fadiga, frenagem automática de emergência, Audi drive select, faróis full led, autohold, assistente de declive, carregamento de celular por indução,  Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": "2021-10-15T22:28:15.031Z"
+  },
+  {
+    "id": "700e8d62-7e5f-43c8-b669-58ff243190d3",
+    "veiculo": "MERCEDES-BENZ GLC 300 2.0 CGI GASOLINA COUPÉ 4MATIC 9G-TRONIC",
+    "marca": "MERCEDES-BENZ",
+    "ano": 2020,
+    "descricao": "Essa unidade está na cor Preto com o interior em Couro Preto e acabamentos em madeira de Carvalho preta. Seus principais opcionais são rodas 20\", bancos elétricos com lombar e memória, ar condicionado dual zone, faróis full led, teto solar, som Burmester, soleira em alumínio iluminada, sensor de estacionamento dianteiro e traseiro, câmera 360, volante multifuncional com paddle shift e mini touch pads, piloto automático adaptativo, painel configurável de 12,3\" multimídia MBUX de 10,2\" com Apple C Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "6d45f6e9-fe3c-4e35-82ab-2800c5176121",
+    "veiculo": "VOLVO XC60 2.0 T8 HYBRID INSCRIPTION AWD GEARTRONIC",
+    "marca": "VOLVO",
+    "ano": 2021,
+    "descricao": "Essa unidade está na cor Branco Gelo com o interior em Couro Bege Claro com detalhes em madeira. Seus principais opcionais são rodas 20\", teto solar panorâmico elétrico, faróis full led, ar condicionado dual zone, painel de instrumentos de 12,3\", multimídia com tela de 9\", gps, bluetooth, Apple CarPlay e Android Auto, bancos elétricos, lombar e memória, keyless, alerta de colisão frontal e traseira, ponto cego e faixa, piloto automático adaptativo, condução semi autônoma, sensores de estacioname Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "ca1fa114-fa7d-4056-a4f6-18c4a827c1ee",
+    "veiculo": "JAGUAR E-PACE 2.0 16V P300 GASOLINA R-DYNAMIC SE AWD AUTOMÁTICO",
+    "marca": "JAGUAR",
+    "ano": 2018,
+    "descricao": "Essa unidade está na cor Branco Fuji com o interior em Couro Preto Ebony. Seus principais opcionais são rodas 20\", som Meridian de 380w, bancos elétricos com memória, lombar e aquecimento, bancos traseiros com aquecimento, ar condicionado dual zone, luz ambiente, porta malas elétrico, sensor de estacionamento dianteiro e traseiro, câmera de ré, painel digital, teto solar panorâmico, park assist, monitor de fadiga, assistente de faixa e ponto cego, piloto automático adaptativo, faróis full led, l Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "ad821a66-386e-4b28-b178-39e64224a3c0",
+    "veiculo": "AUDI R8 5.2 V10 FSI GASOLINA COUPÉ QUATTRO S TRONIC",
+    "marca": "AUDI",
+    "ano": 2021,
+    "descricao": "Essa unidade na cor Prata Florete metálico com o interior em Couro Napa Fina Preto em formato de diamante, acabamentos internos em fibra de carbono e costuras em vermelho em formato de diamante. Seus principais opcionais são rodas 20\", ar condicionado dual zone, sensor de estacionamento dianteiro e traseiro, câmera de ré, freios de cerâmica, pinças vermelhas, bancos esportivos elétricos com lombar e aquecimento, teto forrado em alcântara em formato de diamante, luz ambiente, aerofólio traseiro e Outros Opcionais: Direção Elétrica, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "d9384ccd-d998-4594-98b0-e26c77b54e2e",
+    "veiculo": "JAGUAR F-PACE 5.0 V8 SUPERCHARGED SVR AWD 4P AUTOMÁTICO",
+    "marca": "JAGUAR",
+    "ano": 2020,
+    "descricao": "Essa unidade está na cor Cinza Eiger com o interior em Couro Windsor Siena Tan e Preto Ebony com acabamento em Meshed Alumínio. Seus principais opcionais são rodas 22?, multimídia “InControl Touch Pro” de 10,2? com hd interno de 100gb, Android Auto e Apple CarPlay, som Meridian Surround de 825w, câmera de ré, ar condicionado dual zone, teto solar panorâmico, bancos Performance climatizados elétricos com lombar e memória, bancos traseiros e volante com aquecimento, keyless, teto forrado em alcânt Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "ec5f2703-b147-40c8-975c-27172654c0f2",
+    "veiculo": "MERCEDES-BENZ CLS 53 AMG 3.0 I6 GASOLINA 4MATIC+ 9G-TRONIC",
+    "marca": "MERCEDES-BENZ",
+    "ano": 2019,
+    "descricao": "Essa unidade está na cor Prata Iridium com o interior em Couro Preto. Seus principais opcionais são rodas 20\", bancos elétricos dinâmicos com massagem, lombar, memória e climatizados, multimídia com gps, Apple CarPlay e Android Auto, piloto automático adaptativo, park assist, teto solar, head-up display, portas com fechamento suave, condução semi autônoma, ar condicionado de 3 zonas, sensor de pressão dos pneus, suspensão adaptativa com elevação, câmera 360º, faróis Multibeam Led, som Burmester, Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "b94a6242-1512-4cfe-a290-35012b8b941a",
+    "veiculo": "PORSCHE PANAMERA 2.9 V6 E-HYBRID 4 PDK",
+    "marca": "PORSCHE",
+    "ano": 2018,
+    "descricao": "Essa unidade está na cor Prata GT com o interior em Couro Preto. Seus principais opcionais são rodas 21? da 911 Turbo, bancos elétricos com lombar e memória, multimídia com gps, Android Auto e Apple CarPlay, sensor de faixa, ar condicionado com 4 zonas, faróis full led, teto solar panorâmico, sensor de estacionamento dianteiro e traseiro, câmera 360°, sport chrono, luz ambiente, suspensão ativa com PASM, som Bose, piloto automático. Outros Opcionais: Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "2a773c8a-92e5-4415-995d-1f052ab804d2",
+    "veiculo": "PORSCHE 911 3.0 24V H6 GASOLINA CARRERA S CABRIOLET PDK",
+    "marca": "PORSCHE",
+    "ano": 2021,
+    "descricao": "Essa unidade está na cor Prata Dolomita com o interior em Couro Preto . Seus principais opcionais são rodas 20? e 21? RS Spyder, bancos sport plus de 4 vias, keyless, escape esportivo ativo com seletor no painel, aerofólio ativo, ar condicionado dual zone, faróis full led (PDLS), piloto automático, soleira em alumínio com a grafia 911 Carrera S, nomenclatura Porsche e modelo em preto, volante multifuncional Sport GT com paddle shift, som Bose, sport chrono, sensor de estacionamento dianteiro e t Outros Opcionais: Direção Elétrica, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "0ab47774-c89e-4f47-9dc6-4225fc8634e4",
+    "veiculo": "JAGUAR F-PACE 3.0 V6 SUPERCHARGED R-SPORT AWD 4P AUTOMÁTICO",
+    "marca": "JAGUAR",
+    "ano": 2017,
+    "descricao": "Essa unidade está na cor Marrom Tormaline com interior em couro Preto e Bege. Seus principais opcionais são rodas 20\", bancos elétricos do motorista com memória, faróis full led, controle de tração e estabilidade, freios ABS, Activity Key, volante multifuncional com paddle shift, ar condicionado dual zone, soleira iluminada, sensor de estacionamento dianteiro e traseiro, câmera de ré, direção assistida, piloto automático, teto solar panorâmico, multimidia com Apple CarPlay, Android Auto,  Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "a680a724-bdeb-44e2-b207-20dbf0f94b24",
+    "veiculo": "PORSCHE 911 3.0 24V H6 GASOLINA CARRERA 4S CABRIOLET PDK",
+    "marca": "PORSCHE",
+    "ano": 2020,
+    "descricao": "Essa unidade está na cor Preto Jet metálico com o interior em Couro Marrom Turfa e capota na cor Marrom Castanho, cintos em cinza giz. Seus principais opcionais são rodas 20? e 21? RS Spyder, bancos sport plus de 18 vias do motorista com memoria, keyless, escape esportivo ativo com seletor no painel, ar condicionado dual zone, lift system, faróis full led (PDLS), piloto automático, escudo Porsche no encosto de cabeça, volante multifuncional com paddle shift, som Bose, sport chrono com o Outros Opcionais: Direção Elétrica, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "f5a261b7-6153-4a62-8e13-e87855aecc25",
+    "veiculo": "BMW 745Le 3.0 TWINPOWER HÍBRIDO M SPORT AUTOMÁTICO",
+    "marca": "BMW",
+    "ano": 2022,
+    "descricao": "Essa unidade está na cor Preto Safira com o interior em Couro Nappa Mokka e Preto com acabamento interno em Madeira Fineline. Seus principais opcionais são rodas 20?, bancos traseiros executivos, serviços connected drive, direção ativa integral, suspensão magnética/ar, comfort access, portas com fechamento suave, câmera 360º, vidros conforto laminados, carregador por indução, teto solar panorâmico, cortinas nos vidros traseiros, bancos elétricos climatizados e massagem, ar condicionado de 4 zona Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "a24963fc-c835-4f91-94b6-c4d9a7aa2db2",
+    "veiculo": "PORSCHE 718 2.0 16V H4 GASOLINA BOXSTER PDK",
+    "marca": "PORSCHE",
+    "ano": 2020,
+    "descricao": "Essa unidade está na cor Azul Gentian com o interior em Couro Preto e Vermelho Bordeaux com a capota Preto. Seus principais opcionais são rodas 20\" 911 Turbo, bancos esportivos com encosto elétrico, ar condicionado dual zone, aerofólio ativo, escape esportivo ativo com seletor no console central, modos de condução sport, sport +, Sport Chrono, controle de estabilidade, faróis de xenon com luz diurna em led, soleira em aluminio, sensor de estacionamento traseiro, (PCM) multimídia com gps, bluetoo Outros Opcionais: Direção Elétrica, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "dbd1e4a6-62d6-485e-81b4-2d74bbaede6d",
+    "veiculo": "BMW X7 4.4 V8 GASOLINA M SPORT XDRIVE50I STEPTRONIC",
+    "marca": "BMW",
+    "ano": 2020,
+    "descricao": "Essa unidade está na cor Carbon Black com o interior em Couro Marrom e Preto e acabamento em Black Piano e cristal na manopla do câmbio. Seus principais opcionais são rodas 22?, comfort access, sensor de estacionamento 360º, câmera 360º, teto solar panorâmico “Sky Lounge”, telas traseiras de 10,2?, escape ativo M Sport, luz ambiente, bancos dianteiros elétricos climatizados com massagem, memória, lombar e abas laterais, 2º fileira de bancos elétricos com aquecimento, 3º fileira de bancos com reb Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": "2021-10-15T22:28:15.031Z"
+  },
+  {
+    "id": "f185fee2-b967-4d4b-a72c-03c242cbc58d",
+    "veiculo": "LAND ROVER RANGE ROVER EVOQUE 2.0 P300 GASOLINA MHEV R-DYNAMIC HSE AWD AUTOMÁTICO",
+    "marca": "LAND ROVER",
+    "ano": 2020,
+    "descricao": "Essa unidade está na cor Preto Santorini com o interior em Couro Windsor Preto Ebony e Cinza claro. Seus principais opcionais são rodas 20?, faróis full led, porta malas elétrico, bancos elétricos com lombar e memória, som Meridian de 380w, sensor de estacionamento 360º, câmera 360º, keyless, pacote Black, retrovisor interno ClearSight, multimídia com gps, bluetooth, Apple CarPlay e Android Auto, ar condicionado dual zone, teto solar panorâmico, piloto automático adaptativo, monitor de faixa, co Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "782f2e72-457b-468b-a340-7a24037f36bb",
+    "veiculo": "MERCEDES-BENZ E 300 2.0 CGI GASOLINA EXCLUSIVE 9G-TRONIC",
+    "marca": "MERCEDES-BENZ",
+    "ano": 2019,
+    "descricao": "Essa unidade está na cor Azul Cavansite com o interior bicolor em Couro Bege e Marrom e acabamento em Madeira. Seus principais opcionais são rodas 19\", bancos elétricos com memória e lombar, ar condicionado de 3 zonas, sensor de estacionamento dianteiro e traseiro, câmera de ré, park assist ativo, multimídia com bluetooth, gps, Apple CarPlay e Android Auto, condução semi autônoma, faróis Multibeam Led, sensor de pressão dos pneus, luz ambiente, piloto automático adaptativo, teto solar, luz inter Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "616ee72f-1209-4c91-a179-df2c81fc8716",
+    "veiculo": "MERCEDES-BENZ C 43 AMG 3.0 V6 GASOLINA COUPÉ 4MATIC 9G-TRONIC",
+    "marca": "MERCEDES-BENZ",
+    "ano": 2017,
+    "descricao": " Essa unidade está na cor Branco Polar com o interior em Couro Preto. Seus principais opcionais são rodas 19\", bancos elétricos com memória e lombar, teto solar panorâmico, suspensão adaptativa, ar condicionado dual zone, luz ambiente, faróis full led, som Burmester, keyless start, multimídia de 8,4\" com GPS, Bluetooth e USB, sensor de pressão dos pneus, piloto automático adaptativo, park assist, sensor de estacionamento dianteiro e traseiro, câmera de ré, volante multifuncional com paddle shift Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "5f0d8291-2b22-402c-a64a-66482ccd7690",
+    "veiculo": "AUDI Q8 3.0 TFSI GASOLINA PERFORMANCE QUATTRO TIPTRONIC",
+    "marca": "AUDI",
+    "ano": 2019,
+    "descricao": "MMM. Oferta válida enquanto durar o estoque da concessionária. Crédito sujeito a aprovação, Nos reservamos o direto de alterar, corrigir qualquer erro de digitação, preços, condições de pagamento ou qualquer informação desse veículo anunciado.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "b33f0a11-b1be-4915-bdd4-fcf4bc5b0ee7",
+    "veiculo": "VOLKSWAGEN GOL 1.0 MI 8V FLEX 2P MANUAL G.IV",
+    "marca": "VOLKSWAGEN",
+    "ano": 2010,
+    "descricao": "SAVANA MULTIMARCAS - ITUIUTABA-MG\n\nVOLKSWAGEN \nGOL GOL GIV 1.0 FLEX \n2010/2010 \nALARME\nBASICO \nKM 44704\n\nR$ 15.000,00 \n\nEXCELÊNCIA E TRADIÇÃO EM VENDA DE VEÍCULOS!\nAS MELHORES CONDIÇÕES DE FINANCIAMENTOS!\nSAVANA MULTIMARCAS O SEU NOVO CARRO ESTA AQUI!\nRUA 24, 741 CENTRO ITUIUTABA MG\n\nVISITE E CURTA NOSSAS REDES SOCIAIS!\nHTTPS://LINKTR.EE/SAVANA.ITBA\n\nWHATSAPP:\nINFORMAÇÕES (34) 9 9973 4699\nFIXO:\nHORÁRIO COMERCIAL (34) 3261 4455\n",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "7d9e3950-6a07-4859-9d7f-a339f63c24b3",
+    "veiculo": "FIAT 500 1.4 CULT 8V FLEX 2P AUTOMATIZADO",
+    "marca": "FIAT",
+    "ano": 2015,
+    "descricao": "SAVANA MULTIMARCAS - ITUIUTABA-MG\n\nFIAT \n500 AUT T.FLEX FLEX \n2014/2015 \nCOMPLETO\nAR CONDICIONADO\nDIREÇÃO HIDRÁULICA\nVIDROS ELÉTRICOS\nTRAVAS ELÉTRICAS\nALARME\nAIR BAG\nABS\nRODAS EM LIGA LEVE\nCENTRAL MULTIMÍDIA\nDIREÇÃO ELÉTRICA\nKM 30558\n\nR$ 40.000,00 \n\nEXCELÊNCIA E TRADIÇÃO EM VENDA DE VEÍCULOS!\nAS MELHORES CONDIÇÕES DE FINANCIAMENTOS!\nSAVANA MULTIMARCAS O SEU NOVO CARRO ESTA AQUI!\nRUA 24, 741 CENTRO ITUIUTABA MG\n\nVISITE E CURTA NOSSAS REDES SOCIAIS!\nHTTPS://LINKTR.EE/SAVANA.ITBA\n\nWHATSAPP:\nINFORMA",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "78e039f9-678f-4af6-8bce-46a337e66464",
+    "veiculo": "NISSAN SENTRA 2.0 SV 16V FLEXSTART 4P AUTOMÁTICO",
+    "marca": "NISSAN",
+    "ano": 2019,
+    "descricao": "Não respondemos mensagens.\r\nCONTATO direto na LOJA se houver REAL interesse. Ligue e agende seu atendimento.\r\nEstudamos possível troca e fazemos financiamento se precisar. Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "782ca531-f0f7-48af-94e9-c3e5f3581771",
+    "veiculo": "FORD ECOSPORT 1.5 TI-VCT FLEX FREESTYLE MANUAL",
+    "marca": "FORD",
+    "ano": 2018,
+    "descricao": "carro revisado com manual e chave reseva só na LGL AUTOS 71 991744010 Adriano ou Jordania 71 987263402 Ficamos no Autoshopping Rodrigues Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "f386424f-e3e8-47d1-b692-039f2310ec8a",
+    "veiculo": "FIAT TORO 1.8 16V EVO FLEX ENDURANCE AT6",
+    "marca": "FIAT",
+    "ano": 2019,
+    "descricao": "Para maiores informações e orçamentos, entre em contato com um dos números abaixo: (71) 9 9277-1877 (Whats app) 3389-4267  Outros Opcionais: Direção Elétrica, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "6e132083-be43-4142-8876-ffb8459ff055",
+    "veiculo": "VOLKSWAGEN FOX 1.0 MI TREND 8V FLEX 4P MANUAL",
+    "marca": "VOLKSWAGEN",
+    "ano": 2013,
+    "descricao": "VEICULO MUITO NOVO SEM DETALHES,MODELO TREND 1.0 COMPLETO.\r\nFIRE MOTORS SUA LOJA DE VEICULOS OKM E SEMI NOVOS DE TODAS AS MARCAS E MODELOS,NACIONAIS E IMPORTADOS.TODOS O NOSSOS VEICULO SEMI NOVOS COM GARANTIA E PROCEDENCIA,LAUDO PERICIAL APROVADOS POR EMPRESA CREDENCIADA\r\nANTES DE TROCAR OU COMPRAR SEU VEICULO NÃO DEIXE DE NOS CONSULTAR.NOS RESERVAMOS AO DIREITO DE CORRIGIR ERROS DO ANUNCIO. Outros Opcionais: Porta-copos.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "ef2a8e84-19a8-4efd-9950-731dac277a86",
+    "veiculo": "VOLKSWAGEN PASSAT 2.0 16V TSI BLUEMOTION GASOLINA HIGHLINE 4P DSG",
+    "marca": "VOLKSWAGEN",
+    "ano": 2019,
+    "descricao": "Faróis De Neblina, Vidros Elétricos, Alarme, Câmbio Automático, Teto Solar, Freios Abs, Bancos Em Couro, Ar Condicionado Digital, Espelhos Eletricos, Rodas De Liga Leve, Air Bag Duplo, Trava Eletrica, Direcao Eletrica, Computador De Bordo, Sensor De Estacionamento, Volante Com Regulagem De Altura, Central Multimidia, Start",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "b9f3f864-3bb0-4620-9b51-32e75b93ec7e",
+    "veiculo": "TOYOTA HILUX SW4 2.7 SR 4X2 16V FLEX 4P AUTOMÁTICO",
+    "marca": "TOYOTA",
+    "ano": 2014,
+    "descricao": "Veículo com total procedência, com laudo cautelar 100% aprovado. Todos nossos carros são revisados, com garantia de 03 meses de motor e câmbio (consulte condições). Quer saber mais detalhes do veículo? Entre em contato com um dos nossos consultores de seminovos. Nós da Expoente Toyota temos mais de 20 anos de tradição e excelência no atendimento.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "4454bb77-c373-4c43-bbb4-d0567a2bb367",
+    "veiculo": "CHEVROLET ONIX 1.0 TURBO FLEX PLUS PREMIER AUTOMÁTICO",
+    "marca": "CHEVROLET",
+    "ano": 2020,
+    "descricao": "PREMIER 2, O MAIS TOP DO ONIX PLUS!!! ÚNICO DONO!!! NA GARANTIA DE FÁBRICA ATÉ OUTUBRO DE 2023!!! TODAS AS REVISÕES FEITAS EM CONCESSIONÁRIA (já foi feita a de 20.000km)!!! A equipe AUTODON aguarda sua ligação!!! Contamos com um amplo estoque de veículos com QUALIDADE e PROCEDÊNCIA. TODOS NOSSOS VEÍCULOS POSSUEM LAUDO PERICIAL APROVADO. Aceitamos seu veículo como parte de pagamento e financiamos em até 60 meses! Reservamo-nos o direito de corrigir possíveis erros de digitação.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "9f436957-e47f-4a43-b574-a47cf8ceb579",
+    "veiculo": "AUDI Q5 2.0 TFSI GASOLINA PRESTIGE S TRONIC",
+    "marca": "AUDI",
+    "ano": 2020,
+    "descricao": "Farol de neblina, ABD,BT,TC,RL,ACI,CA,EE,PA,ABL,APP",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "2146ac6d-f855-4463-8e02-12d2b9f72609",
+    "veiculo": "AUDI Q3 1.4 35 TFSI GASOLINA BLACK S LINE S TRONIC",
+    "marca": "AUDI",
+    "ano": 2021,
+    "descricao": "Ficou interessado? Entre em contato para mais informações! Outros Opcionais: Porta-copos, Farol de neblina, Direção Elétrica, Comando de áudio no volante, Assistente de Partida em Rampa, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "eeaf2838-49f3-4063-b84b-6eac30e53051",
+    "veiculo": "AUDI A4 2.0 TFSI GASOLINA PRESTIGE PLUS S TRONIC",
+    "marca": "AUDI",
+    "ano": 2021,
+    "descricao": "Motor 2.0 TFSi de 190 cv, Câmbio S-Tronic de 7 velocidades, Audi Drive Select, Audi Virtual Cockpit, Bancos em couro com ajustes elétricos, Ar-condicionado digital de 3 zonas, Faróis de LED com Luzes de condução diurna, Chave presencial, Sistema Start/Stop, Multimídia Touchscreen com GPS, Bluetooth, USB, Espelhamento sem fio para Apple Carplay e Android Auto, Teto Solar Elétrico, Sensores de estacionamento D/T, Câmera de ré e Rodas aro 18\". Outros Opcionais: Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "d9aa4e09-804d-4077-912d-ace8f9ce1e4a",
+    "veiculo": "VOLKSWAGEN TIGUAN 1.4 250 TSI TOTAL FLEX ALLSPACE COMFORTLINE TIPTRONIC",
+    "marca": "VOLKSWAGEN",
+    "ano": 2020,
+    "descricao": "ABD,BT,CA,PA,ABL",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "4b96a3c1-67ae-4a85-b6ec-200a3ae6bfa6",
+    "veiculo": "HYUNDAI HB20 1.0 COMFORT PLUS 12V FLEX 4P MANUAL",
+    "marca": "HYUNDAI",
+    "ano": 2019,
+    "descricao": " Outros Opcionais: Comando de áudio no volante, Distribuição eletrônica de frenagem, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "30e3b9b6-5b2e-42d2-8685-d714c3818fed",
+    "veiculo": "HYUNDAI IX35 2.0 MPFI GL 16V FLEX 4P AUTOMÁTICO",
+    "marca": "HYUNDAI",
+    "ano": 2020,
+    "descricao": "Veículos revisados com garantia de um ano! Não trabalhamos com veículos de seguradora, ex-táxi ou leilão. Todos os veículos possuem laudo de procedência, atestando e garantindo uma boa compra! Preço exposto e condições sugeridas anunciadas sendo uma simulação de crédito. Valor este anunciado a ser financiado no cdc com taxas reduzida ,acrescentando + pequena  entrada.Com o parcelamento vip em Cdc juros reduzidos, parcelas que cabem no seu bolso! Consultem-nos. Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Banco bi-partido, Controle de estabilidade, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "ca9c0c6e-d250-486e-abb0-af4dbb5d71c0",
+    "veiculo": "BMW 650i 4.4 CABRIO V8 32V TURBO GASOLINA 2P AUTOMÁTICO",
+    "marca": "BMW",
+    "ano": 2012,
+    "descricao": "Motor 4.4 V8 Bi turbo de 413 cv, Câmbio automático de 8 velocidades, Modos de condução (Comfort, Comfort +, Sport e Sport +), Bancos em couro com 20 tipos de regulagem, aquecimento e ventilação, Ar-condicionado digital de 2 zonas, Multimídia iDrive de 10\" c/GPS, Bluetooth e USB, Som Bang&Olufsen, Sensor de estacionamento 360°, Câmera de ré, Head-up Display, Rodas aro 20\" c/pinças série \"M\", Aviso de mudança de faixa e Night Vision (Detecção de Pedestre por Infravermelho c/alcance de até 300 m). Outros Opcionais: Controle de estabilidade, Distribuição eletrônica de frenagem.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "f9fe7098-28cb-48d2-a75c-c449cb539348",
+    "veiculo": "CITROËN C3 1.6 TENDANCE 16V FLEX 4P AUTOMÁTICO",
+    "marca": "CITROËN",
+    "ano": 2015,
+    "descricao": "CONCESSIONARIA HONDA GABIVEL COM VEICULOS SEMINOVOS MULTIMARCAS. VALOR A VISTA, PARA TROCA CONSULTE UM VENDEDOR. Outros Opcionais: Farol de neblina, Direção Elétrica, Banco bi-partido, Distribuição eletrônica de frenagem, Kit Multimídia, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "31b274a8-751b-4073-8803-4a5a120cd0ae",
+    "veiculo": "AUDI A3 1.4 TFSI FLEX SEDAN PRESTIGE PLUS TIPTRONIC",
+    "marca": "AUDI",
+    "ano": 2019,
+    "descricao": "Farol de neblina, ABD,CA,EE,ABL,APP",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "9c33c764-35b7-4b03-a9d7-250420220b27",
+    "veiculo": "VOLKSWAGEN FOX 1.6 MSI COMFORTLINE 8V FLEX 4P MANUAL",
+    "marca": "VOLKSWAGEN",
+    "ano": 2015,
+    "descricao": ".Para maiores informações e orçamentos, entre em contato com um dos números abaixo: (71) 9 9277-1877 (Whats app) 3389-4267   Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Distribuição eletrônica de frenagem, MP3 Player, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "f835be5f-2eff-491e-b17f-97f0d285f422",
+    "veiculo": "VOLVO S90 2.0 T8 HYBRID INSCRIPTION AWD GEARTRONIC",
+    "marca": "VOLVO",
+    "ano": 2019,
+    "descricao": "Motor 2.0 Turbo 320 cv + Motor elétrico de 87 cv (Potência combinada de 407 cv), Câmbio automático de 8 velocidade feito em Cristal assinado pela marca Orrefors, Sistema de som Bower & Wilkins, Controle de cruzeiro adaptativo, Head-up Display, Android Auto e Apple CarPlay, Direção semiautônoma Pilot Assist, Multimídia Touch de 12,3\" com GPS, Espelhamento e USB, Faróis de LED, Modos de condução (Pure, Hybrid, Power e AWD), Sensor de estacionamento 360° e Rodas aro 20\".   Outros Opcionais: Farol de neblina, Direção Elétrica, Comando de áudio no volante, Controle de estabilidade, Distribuição eletrônica de frenagem, Pára-choques na cor do veículo.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "90eb4d89-0e4c-4f52-a8ec-6ef4718fc865",
+    "veiculo": "HONDA HR-V 1.8 16V FLEX EXL 4P AUTOMÁTICO",
+    "marca": "HONDA",
+    "ano": 2019,
+    "descricao": "ABD,TC,RL,CA,EE,VT",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "f285f31d-4f3e-4cbb-b360-fd541d366755",
+    "veiculo": "LAND ROVER DISCOVERY SPORT 2.0 16V SI4 TURBO GASOLINA HSE 4P AUTOMÁTICO",
+    "marca": "LAND ROVER",
+    "ano": 2016,
+    "descricao": "ABD,ACI,CA,ABL",
+    "vendido": true,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  },
+  {
+    "id": "29419637-8a97-482c-9685-ddedd0d772d3",
+    "veiculo": "CHERY TIGGO 5x 1.5 VVT TURBO iFLEX TXS DCT",
+    "marca": "CHERY",
+    "ano": 2021,
+    "descricao": "VERSÃO TOP DE LINHA COM TETO SOLAR PANORÂMICO!!! ÚNICO DONO!!! TODO REVISADA EM CONCESSIONÁRIA (Inclusive já fez a revisão de 20.000km), E COM GARANTIA DE FÁBRICA ATÉ OUTUBRO DE 2023!!! A equipe AUTODON aguarda sua ligação!!! Contamos com um amplo estoque de veículos com QUALIDADE e PROCEDÊNCIA. TODOS NOSSOS VEÍCULOS POSSUEM LAUDO PERICIAL APROVADO. Aceitamos seu veículo como parte de pagamento e financiamos em até 60 meses! Reservamo-nos o direito de corrigir possíveis erros de digitação.",
+    "vendido": false,
+    "created": "2021-10-15T22:28:15.031Z",
+    "deleted": null
+  }
+]
