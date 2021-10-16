@@ -7,4 +7,9 @@ const getJsonOnFile = () => {
     return JSON.parse(textReadFile.toString())
 }
 
-module.exports = { getJsonOnFile }
+const registerNewVersionOfFileData = (jsonData) => {
+    const dirPath = path.resolve(__dirname, '..', 'data')
+    fs.writeFileSync(`${dirPath}/vehicles.json`, JSON.stringify(jsonData))
+}
+
+module.exports = { getJsonOnFile, registerNewVersionOfFileData }

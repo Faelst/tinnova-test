@@ -7,8 +7,8 @@ router.get('/test', (req, res) => res.status(200).send(true))
 router.get('/', VehiclesControllers.getVehicles)
 router.get('/:id', VehiclesControllers.getVehicleById)
 router.post('/', VehiclesControllers.registerVehicle)
-router.put('/:id')
+router.put('/:id', VehiclesControllers.updateVehicle)
 router.patch('/:id')
-router.delete('/:id')
+router.delete('/:id', VehiclesControllers.deleteVehicle)
 
 module.exports = router

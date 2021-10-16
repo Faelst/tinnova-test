@@ -1,14 +1,17 @@
 const express = require('express')
 const routers = require('../routers')
+const dotenv = require('dotenv')
 
 class Server {
     constructor() {
+        this.dotenv = dotenv
         this.express = express()
         this.middleware()
         this.router()
     }
 
     middleware() {
+        this.dotenv.config()
         this.express.use(express.json())
     }
 
@@ -17,7 +20,7 @@ class Server {
     }
 
     listen() {
-        this.express.listen(8080, () => console.log('API listen on http://localhost:8080'))
+        this.express.listen(process.env.PORT || 3000, () => console.log('API listen on http://localhost:8080'))
     }
 }
 
