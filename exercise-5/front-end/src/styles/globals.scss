@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--gray-50);
+}
+
+:root {
+  --white: #fff;
+
+  --gray-50: #f7f8fa;
+  --gray-100: #afb2b1;
+  --gray-200: #afb281;
+  --gray-500: #808080;
+  --gray-800: #494d4b;
+
+  --grenn-500: #b4d361;
+}
+
+body,
+input,
+textarea,
+button {
+  font: 500 1rem sans-serif;
+  color: var(--gray-500);
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+button {
+  cursor: pointer;
+}
+
