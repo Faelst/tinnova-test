@@ -1,11 +1,11 @@
 import axios, { Axios } from 'axios'
 
-export class ApiService {
+export class ApiService {    
     axiosInstance: Axios
 
     constructor() {
         this.axiosInstance = axios.create({
-            baseURL: process.env.API_URL || 'http://192.168.15.34:8080/api',
+            baseURL: process.env.API_URL,
         });
     }
 
