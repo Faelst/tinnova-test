@@ -17,7 +17,7 @@ class Vehicles {
         const vehicles = (getJsonOnFile()).filter(e => !e.deleted && e.id === id)
 
         if (!vehicles.length)
-            return res.status(400).json({
+            return res.status(200).json({
                 status: false,
                 error: 'not found any vehicle'
             })
