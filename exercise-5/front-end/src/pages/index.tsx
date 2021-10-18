@@ -74,17 +74,19 @@ export default function Home() {
 
   const updateVehicle = async () => {
     const data: any = await ApiService.updateVehicle(vehicleUpdateFormData)
-
+    
     if (!data.data.status) return
-
     setUpdateApiResponse({ ...data.data })
     setVehicleUpdateFormData(defaultInputs)
+    setEnableUpdateFormData(false)
   }
 
   const deleteVehicle = async () => {
     const data: any = await ApiService.deleteVehicle({ vehicleId: vehicleUpdateFormData.id})
+    
     setUpdateApiResponse({ ...data.data })
     setVehicleUpdateFormData(defaultInputs)
+    setEnableUpdateFormData(false)
   }
 
   return (<>
