@@ -1,4 +1,4 @@
-const ServerClass = require('./server')
-const AppServer = new ServerClass()
+const ServerClass = require('./server');
+const AppServer = new ServerClass();
 
-AppServer.listen()
+AppServer.listen();

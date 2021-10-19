@@ -37,7 +37,7 @@ body,
 input,
 textarea,
 button {
-  font: 500 1rem "Roboto", sans-serif;
+  font: 500 1rem 'Roboto', sans-serif;
   color: var(--gray-500);
 }
 
@@ -48,7 +48,7 @@ h4,
 h5,
 h6 {
   font-weight: 600;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: var(--gray-800);
 }
 
@@ -82,5 +82,5 @@ button {
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background:var(--grenn-800);
+  background: var(--grenn-800);
 }
